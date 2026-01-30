@@ -100,6 +100,7 @@ section {
    ========================================================= */
 #section-1 {
   padding-top: 120px;
+  padding-bottom: 8rem;
 }
 
 #section-1 .middle {
@@ -188,6 +189,7 @@ section {
    SECTION 2 – TITLES
    ========================================================= */
 #section-2 {
+  margin-top: 8rem;
   padding: 10vh 12vw;
   position: relative;
 }
@@ -259,6 +261,7 @@ main:has(#section-2 .title[img-title="shadow"]:hover)
   padding-block:10rem;
   padding-inline:10rem;
   position:relative;
+  margin-top: 8rem;
   
   min-height: 120vh;
   z-index:0;
